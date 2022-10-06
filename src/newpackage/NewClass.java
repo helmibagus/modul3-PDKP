@@ -7,7 +7,7 @@ package newpackage;
 
 /**
  *
- * @author HELMI
+ * @author HELMI bagus
  */
 public class NewClass {
     
